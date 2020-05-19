@@ -1,0 +1,28 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Bhils/my/src/js/modernizr.js",
+        "C:/Users/Bhils/my/src/App.js",
+        "C:/Users/Bhils/my/src/js/pace.min.js",
+        "C:/Users/Bhils/my/src/js/main.js",
+        "C:/Users/Bhils/my/src/js/mask.js",
+        "C:/Users/Bhils/my/src/js/morris-data.js",
+        "C:/Users/Bhils/my/src/js/jsgrid-init.js",
+        "C:/Users/Bhils/my/src/js/plugins.js",
+        "C:/Users/Bhils/my/src/compo/footer.js",
+        "C:/Users/Bhils/my/src/css/plugins/x-editable/dist/bootstrap3-editable/js/bootstrap-editable.js",
+        "C:/Users/Bhils/my/src/myInfo.js",
+        "C:/Users/Bhils/my/src/js/waves.js",
+        "C:/Users/Bhils/my/src/js/widget-charts.js",
+        "C:/Users/Bhils/my/src/js/widget-data.js",
+        "C:/Users/Bhils/my/src/js/validation.js",
+        "C:/Users/Bhils/my/src/js/toastr.js",
+        "C:/Users/Bhils/my/src/js/sidebarmenu.js",
+        "C:/Users/Bhils/my/src/js/npm.js",
+        "codemirror.js",
+        "C:/Users/Bhils/my/src/js/custom/bitcoin-trading.js",
+        "C:/Users/Bhils/my/footwear/js/aos.js",
+        "C:/Users/Bhils/my/src/js/custom/login.js",
+        "C:/Users/Bhils/my/footwear/js/bootstrap.min.js",
+        "C:/Users/Bhils/my/src/js/custom/giftcard.js"
+    ]
+}

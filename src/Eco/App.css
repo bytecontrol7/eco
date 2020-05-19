@@ -1,0 +1,144 @@
+
+  /*Byteproof */
+  
+  .hover a:hover {
+    text-decoration: underline;
+
+  }
+  .dash {
+    background-color: #017cc2; 
+  }
+
+  .fcmbtext {
+    color: #a1e01f!important;
+  }
+  .bg {
+    background-color: #003152!important;
+    color: white !important;
+  }
+  .image-underbg{
+    background-color: whitesmoke;
+    height: 85px;
+  
+   
+  
+  }
+  .bgclass {
+    background-color: rgb(227, 233, 237);
+  }
+  
+  .fa.pcBar {
+    display: none;
+  }
+  
+  
+  .layer{
+    background-color: lightblues;
+  }
+  @media screen and (min-width: 990px) {
+    .sidebar {
+      display: block;
+      width: 45px;
+      overflow-x: hidden;
+    }
+    .vert {
+      margin-left: 50px;
+    }
+    .navbar-toggle {
+      display: block;
+    }
+    .navbar .navbar-toggler {
+      display: block;
+    }
+  
+    /*************************************************** */
+    .fa.pcBar {
+      display: inline-block;
+      margin-right: 5px;
+    }
+   
+  
+    .main-panel {
+      /* position: relative;
+      float: right; */
+      /* width: calc(100% - 260px); */
+      width: calc(100% - 45px);
+      /* background-color: #f4f3ef;
+      transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); */
+    }
+  
+    /******************************************************/
+  }
+  
+  
+  
+  .sid {
+    background-color: silver;
+  }
+  .thanks {
+    padding-top: 220px;
+    padding-bottom: 40px;
+    text-align-last: center;
+    font-weight: bolder;
+  }
+  
+  .error{
+    border: 1px solid red !important;
+  }
+  
+  .login-bg {
+    background-color: whitesmoke;
+  }
+  .login-inner{
+    background-color: white ;
+  }
+  
+  .blur{
+    font-size: 40px;
+    filter: blur(3px);
+    }
+  
+  
+  .matched {
+    background-color: lightgreen;
+  }
+  .register-bg {
+    background-color: silver;
+  }
+  
+  .choosen {
+    color: yellow !important;
+    
+    
+  }
+  .custom-context{
+    border: solid 1px #ccc;
+    display: inline-block;
+    margin: 5px;
+    background: #FFF;
+    color: #000;
+    font-family: sans-serif;
+    cursor: pointer;
+    font-size: 12px;
+   }
+   .custom-context-item{
+    border-bottom: dotted 1px #ccc;
+    padding: 5px 25px;
+   }
+   .custom-context-item-last{
+    padding: 5px 25px;
+   }
+  
+  .faa{
+      color: black
+  }
+  
+  .mandateBorder {
+    border: 2px solid #e67817;
+    height: 2em;
+    background-color: #e67817;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    padding: 3px 0px;
+  }

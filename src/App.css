@@ -1,0 +1,198 @@
+
+body{
+  background: grey;
+  
+}
+
+.sembic{
+  background-image: url('./Ayenco/img/imagess.jpg');
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sembic2{
+  background-image: url('./Ayenco/img/pos.jpg');
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sembic3{
+  background-image: url('./Ayenco/img/po.jpg');
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.adminSembic{
+  background-color: white;
+}
+.loanbod{
+  background-color: white;
+
+}
+
+.olu{
+  border: 2px solid orange;
+  background-color: orange;
+  color: white;
+  height: 3em;;
+}
+
+.olu2{
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+  height: 3em;;
+}
+
+.dd{
+  background-color: grey;
+  color: white;
+}
+.sidy {
+  width: 20%;
+  background-color: rgb(33, 36, 51) !important;
+  color: white;
+  height: 100em;
+}
+
+
+
+
+
+
+
+
+/*Byteproof */
+.hover a:hover {
+  background-color:grey;
+  color: white!important;
+}
+.dash {
+  background-color: #e21d1d;
+}
+.bg {
+  background-color: white !important;
+  color: white !important;
+}
+.image-underbg{
+  background-color: #b30000;
+  height: 72px;
+
+ 
+
+}
+.bgclass {
+  background-color: rgb(227, 233, 237);
+}
+
+.fa.pcBar {
+  display: none;
+}
+
+
+.layer{
+  background-color: lightblues;
+}
+@media screen and (min-width: 990px) {
+  .sidebar {
+    display: block;
+    width: 45px;
+    overflow-x: hidden;
+  }
+  .vert {
+    margin-left: 50px;
+  }
+  .navbar-toggle {
+    display: block;
+  }
+  .navbar .navbar-toggler {
+    display: block;
+  }
+
+  /*************************************************** */
+  .fa.pcBar {
+    display: inline-block;
+    margin-right: 5px;
+  }
+ 
+
+  .main-panel {
+    /* position: relative;
+    float: right; */
+    /* width: calc(100% - 260px); */
+    width: calc(100% - 45px);
+    /* background-color: #f4f3ef;
+    transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); */
+  }
+
+  /******************************************************/
+}
+
+
+
+.sid {
+  background-color: silver;
+}
+.thanks {
+  padding-top: 220px;
+  padding-bottom: 40px;
+  text-align-last: center;
+  font-weight: bolder;
+}
+
+.error{
+  border: 1px solid red !important;
+}
+
+.login-bg {
+  background-color: white;
+}
+.login-inner{
+  background-color: #bee4ff;
+}
+
+.blur{
+  font-size: 40px;
+  filter: blur(3px);
+  }
+
+
+.matched {
+  background-color: lightgreen;
+}
+.register-bg {
+  background-color: silver;
+}
+
+.choosen {
+  color: #e21d1d !important;
+  text-decoration: underline!important;
+  
+}
+.custom-context{
+  border: solid 1px #ccc;
+  display: inline-block;
+  margin: 5px;
+  background: #FFF;
+  color: #000;
+  font-family: sans-serif;
+  cursor: pointer;
+  font-size: 12px;
+ }
+ .custom-context-item{
+  border-bottom: dotted 1px #ccc;
+  padding: 5px 25px;
+ }
+ .custom-context-item-last{
+  padding: 5px 25px;
+ }
+
+.faa{
+    color: black
+}
